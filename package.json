@@ -1,0 +1,25 @@
+{
+  "name": "mg",
+  "version": "1.0.0",
+  "description": "mg-cpu",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ifElser/mg.git"
+  },
+  "keywords": [
+    "mg",
+    "cli",
+    "cpu",
+    "xmr"
+  ],
+  "author": "js-coder@mail.ru",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ifElser/mg/issues"
+  },
+  "homepage": "https://github.com/ifElser/mg#readme"
+}

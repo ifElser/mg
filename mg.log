@@ -1,0 +1,9 @@
+[036m[2016-12-24 02:03:46.132] [ info]  Pool parameters query...[0m
+[036m[2016-12-24 02:03:46.614] [ info]  Loading miners...[0m
+[036m[2016-12-24 02:03:46.614] [ info]  Miners loaded successfully[0m
+[036m[2016-12-24 02:03:46.807] [ info]  Successfully connected to pool: stratum+tcp://mro.pool.minergate.com:45560. session_id="5c2049d7-d602-4bcd-8e74-fadd2a0447bb"[0m
+[036m[2016-12-24 02:03:46.807] [ info]  New Job: job_id="9d6d221e-7fcb-4abb-b4f2-d820f2fff35f" blob="030493f2fac2054d9ca623ba9226354d724c5202af32aea65eec2b296643d41b697905a72412c800000000a518581d582df729be883896f888a7ca7bcee99d5ad63d31867b652815d6b12602" target="e4a63d00"[0m
+[036m[2016-12-24 02:03:46.807] [ info]  New difficulty: 1063[0m
+[036m[2016-12-24 02:03:56.718] [ info]  XMR hashrate: 4.32954 H/s[0m
+[036m[2016-12-24 02:04:06.717] [ info]  XMR hashrate: 3.99848 H/s[0m
+[036m[2016-12-24 02:04:16.721] [ info]  XMR hashrate: 3.04878 H/s[0m
